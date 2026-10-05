@@ -4,7 +4,7 @@ Static landing page for `glizzybot.app` (HTML, CSS and JavaScript with no build 
 
 ## Before going live
 
-1. In [`config.js`](./config.js), replace `YOUR_DISCORD_CLIENT_ID`, `YOUR_SUPPORT_INVITE` and the Ryzehosting affiliate URL.
+1. Review the public links in [`config.js`](./config.js) if the Discord application or support server changes.
 2. Complete the legal details in [`impressum/index.html`](./impressum/index.html) and [`datenschutz/index.html`](./datenschutz/index.html).
 3. Point the domain to this directory. No `.env` file or backend data is required.
 
